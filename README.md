@@ -7,3 +7,11 @@ git add : redy to saving
 git commit : saving
 git push : to saving githube drive
 marge : to create brange of code 
+day 4
+web frame work
+  flask : python
+  django
+  to move local to internet is used "pythonanywhwere.com","render.com",
+frontend:html,css
+baekend:python
+database:sql
